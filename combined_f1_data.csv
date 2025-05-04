@@ -1,160 +1,160 @@
-Year,RoundNumber,EventName,Driver,Team,QualifyingTime (s),PointsIndex,FinishingPosition
-2025,1,Australian Grand Prix,NOR,McLaren,75.096,0.0,1
-2025,1,Australian Grand Prix,VER,Red Bull Racing,75.481,0.0,2
-2025,1,Australian Grand Prix,RUS,Mercedes,75.546,0.0,3
-2025,1,Australian Grand Prix,ANT,Mercedes,76.525,0.0,4
-2025,1,Australian Grand Prix,ALB,Williams,75.737,0.0,5
-2025,1,Australian Grand Prix,STR,Aston Martin,76.369,0.0,6
-2025,1,Australian Grand Prix,HUL,Kick Sauber,76.579,0.0,7
-2025,1,Australian Grand Prix,LEC,Ferrari,75.755,0.0,8
-2025,1,Australian Grand Prix,PIA,McLaren,75.18,0.0,9
-2025,1,Australian Grand Prix,HAM,Ferrari,75.919,0.0,10
-2025,1,Australian Grand Prix,GAS,Alpine,75.98,0.0,11
-2025,1,Australian Grand Prix,TSU,Racing Bulls,75.67,0.0,12
-2025,1,Australian Grand Prix,OCO,Haas F1 Team,77.147,0.0,13
-2025,1,Australian Grand Prix,BEA,Haas F1 Team,76.06857894736842,0.0,14
-2025,1,Australian Grand Prix,LAW,Red Bull Racing,77.094,0.0,15
-2025,1,Australian Grand Prix,BOR,Kick Sauber,76.516,0.0,16
-2025,1,Australian Grand Prix,ALO,Aston Martin,76.288,0.0,17
-2025,1,Australian Grand Prix,SAI,Williams,75.931,0.0,18
-2025,1,Australian Grand Prix,DOO,Alpine,76.315,0.0,19
-2025,1,Australian Grand Prix,HAD,Racing Bulls,76.175,0.0,20
-2025,2,Chinese Grand Prix,PIA,McLaren,90.641,0.08,1
-2025,2,Chinese Grand Prix,NOR,McLaren,90.787,1.0,2
-2025,2,Chinese Grand Prix,RUS,Mercedes,90.723,0.6,3
-2025,2,Chinese Grand Prix,VER,Red Bull Racing,90.817,0.72,4
-2025,2,Chinese Grand Prix,OCO,Haas F1 Team,91.625,0.0,5
-2025,2,Chinese Grand Prix,ANT,Mercedes,91.103,0.48,6
-2025,2,Chinese Grand Prix,ALB,Williams,91.503,0.4,7
-2025,2,Chinese Grand Prix,BEA,Haas F1 Team,92.018,0.0,8
-2025,2,Chinese Grand Prix,STR,Aston Martin,91.773,0.32,9
-2025,2,Chinese Grand Prix,SAI,Williams,91.628,0.0,10
-2025,2,Chinese Grand Prix,HAD,Racing Bulls,91.079,0.0,11
-2025,2,Chinese Grand Prix,LAW,Red Bull Racing,92.174,0.0,12
-2025,2,Chinese Grand Prix,DOO,Alpine,92.092,0.0,13
-2025,2,Chinese Grand Prix,BOR,Kick Sauber,92.141,0.0,14
-2025,2,Chinese Grand Prix,HUL,Kick Sauber,91.632,0.24,15
-2025,2,Chinese Grand Prix,TSU,Racing Bulls,91.238,0.0,16
-2025,2,Chinese Grand Prix,ALO,Aston Martin,91.688,0.0,17
-2025,2,Chinese Grand Prix,LEC,Ferrari,91.021,0.16,18
-2025,2,Chinese Grand Prix,HAM,Ferrari,90.927,0.04,19
-2025,2,Chinese Grand Prix,GAS,Alpine,91.992,0.0,20
-2025,3,Japanese Grand Prix,VER,Red Bull Racing,86.983,0.6976744186046512,1
-2025,3,Japanese Grand Prix,NOR,McLaren,86.995,1.0,2
-2025,3,Japanese Grand Prix,PIA,McLaren,87.027,0.627906976744186,3
-2025,3,Japanese Grand Prix,LEC,Ferrari,87.299,0.09302325581395349,4
-2025,3,Japanese Grand Prix,RUS,Mercedes,87.318,0.6976744186046512,5
-2025,3,Japanese Grand Prix,ANT,Mercedes,87.555,0.46511627906976744,6
-2025,3,Japanese Grand Prix,HAM,Ferrari,87.61,0.023255813953488372,7
-2025,3,Japanese Grand Prix,HAD,Racing Bulls,87.569,0.0,8
-2025,3,Japanese Grand Prix,ALB,Williams,87.615,0.37209302325581395,9
-2025,3,Japanese Grand Prix,BEA,Haas F1 Team,87.711,0.09302325581395349,10
-2025,3,Japanese Grand Prix,ALO,Aston Martin,87.897,0.0,11
-2025,3,Japanese Grand Prix,TSU,Red Bull Racing,87.967,0.0,12
-2025,3,Japanese Grand Prix,GAS,Alpine,87.822,0.0,13
-2025,3,Japanese Grand Prix,SAI,Williams,87.836,0.023255813953488372,14
-2025,3,Japanese Grand Prix,DOO,Alpine,88.877,0.0,15
-2025,3,Japanese Grand Prix,HUL,Kick Sauber,88.57,0.13953488372093023,16
-2025,3,Japanese Grand Prix,LAW,Racing Bulls,87.906,0.0,17
-2025,3,Japanese Grand Prix,OCO,Haas F1 Team,88.696,0.23255813953488372,18
-2025,3,Japanese Grand Prix,BOR,Kick Sauber,88.622,0.0,19
-2025,3,Japanese Grand Prix,STR,Aston Martin,89.271,0.23255813953488372,20
-2025,4,Bahrain Grand Prix,PIA,McLaren,89.841,0.6885245901639344,1
-2025,4,Bahrain Grand Prix,RUS,Mercedes,90.009,0.6557377049180327,2
-2025,4,Bahrain Grand Prix,NOR,McLaren,90.267,1.0,3
-2025,4,Bahrain Grand Prix,LEC,Ferrari,90.175,0.26229508196721313,4
-2025,4,Bahrain Grand Prix,HAM,Ferrari,90.772,0.11475409836065574,5
-2025,4,Bahrain Grand Prix,VER,Red Bull Racing,90.423,0.9016393442622951,6
-2025,4,Bahrain Grand Prix,GAS,Alpine,90.216,0.0,7
-2025,4,Bahrain Grand Prix,OCO,Haas F1 Team,91.594,0.16393442622950818,8
-2025,4,Bahrain Grand Prix,TSU,Red Bull Racing,91.228,0.0,9
-2025,4,Bahrain Grand Prix,BEA,Haas F1 Team,92.373,0.08196721311475409,10
-2025,4,Bahrain Grand Prix,ANT,Mercedes,90.213,0.45901639344262296,11
-2025,4,Bahrain Grand Prix,ALB,Williams,92.04,0.29508196721311475,12
-2025,4,Bahrain Grand Prix,HAD,Racing Bulls,91.271,0.06557377049180328,13
-2025,4,Bahrain Grand Prix,DOO,Alpine,91.245,0.0,14
-2025,4,Bahrain Grand Prix,ALO,Aston Martin,91.634,0.0,15
-2025,4,Bahrain Grand Prix,LAW,Racing Bulls,92.165,0.0,16
-2025,4,Bahrain Grand Prix,STR,Aston Martin,92.283,0.16393442622950818,17
-2025,4,Bahrain Grand Prix,BOR,Kick Sauber,92.186,0.0,18
-2025,4,Bahrain Grand Prix,SAI,Williams,90.68,0.01639344262295082,19
-2025,4,Bahrain Grand Prix,HUL,Kick Sauber,92.067,0.09836065573770492,20
-2024,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,87.472,1.0,1
-2024,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,87.807,0.6923076923076923,2
-2024,2,Saudi Arabian Grand Prix,LEC,Ferrari,87.791,0.46153846153846156,3
-2024,2,Saudi Arabian Grand Prix,PIA,McLaren,88.089,0.15384615384615385,4
-2024,2,Saudi Arabian Grand Prix,ALO,Aston Martin,87.846,0.07692307692307693,5
-2024,2,Saudi Arabian Grand Prix,RUS,Mercedes,88.316,0.38461538461538464,6
-2024,2,Saudi Arabian Grand Prix,BEA,Ferrari,88.642,0.0,7
-2024,2,Saudi Arabian Grand Prix,NOR,McLaren,88.132,0.3076923076923077,8
-2024,2,Saudi Arabian Grand Prix,HAM,Mercedes,88.46,0.23076923076923078,9
-2024,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,89.055,0.0,10
-2024,2,Saudi Arabian Grand Prix,ALB,Williams,88.98,0.0,11
-2024,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.02,0.0,12
-2024,2,Saudi Arabian Grand Prix,OCO,Alpine,89.475,0.0,13
-2024,2,Saudi Arabian Grand Prix,SAR,Williams,89.526,0.0,14
-2024,2,Saudi Arabian Grand Prix,TSU,RB,88.547,0.0,15
-2024,2,Saudi Arabian Grand Prix,RIC,RB,89.025,0.0,16
-2024,2,Saudi Arabian Grand Prix,BOT,Kick Sauber,89.179,0.0,17
-2024,2,Saudi Arabian Grand Prix,ZHO,Kick Sauber,88.58373684210527,0.0,18
-2024,2,Saudi Arabian Grand Prix,STR,Aston Martin,88.25,0.038461538461538464,19
-2024,2,Saudi Arabian Grand Prix,GAS,Alpine,89.479,0.0,20
-2023,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,88.265,0.72,1
-2023,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,88.761,1.0,2
-2023,2,Saudi Arabian Grand Prix,ALO,Aston Martin,88.73,0.6,3
-2023,2,Saudi Arabian Grand Prix,RUS,Mercedes,88.857,0.24,4
-2023,2,Saudi Arabian Grand Prix,HAM,Mercedes,89.223,0.4,5
-2023,2,Saudi Arabian Grand Prix,SAI,Ferrari,88.931,0.48,6
-2023,2,Saudi Arabian Grand Prix,LEC,Ferrari,88.42,0.0,7
-2023,2,Saudi Arabian Grand Prix,OCO,Alpine,89.078,0.0,8
-2023,2,Saudi Arabian Grand Prix,GAS,Alpine,89.357,0.08,9
-2023,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.634,0.0,10
-2023,2,Saudi Arabian Grand Prix,TSU,AlphaTauri,89.939,0.0,11
-2023,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,89.451,0.0,12
-2023,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,89.461,0.0,13
-2023,2,Saudi Arabian Grand Prix,DEV,AlphaTauri,90.244,0.0,14
-2023,2,Saudi Arabian Grand Prix,PIA,McLaren,89.243,0.0,15
-2023,2,Saudi Arabian Grand Prix,SAR,Williams,128.51,0.0,16
-2023,2,Saudi Arabian Grand Prix,NOR,McLaren,90.447,0.0,17
-2023,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,89.668,0.16,18
-2023,2,Saudi Arabian Grand Prix,ALB,Williams,89.994,0.04,19
-2023,2,Saudi Arabian Grand Prix,STR,Aston Martin,88.945,0.32,20
-2022,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,88.461,0.0,1
-2022,2,Saudi Arabian Grand Prix,LEC,Ferrari,88.225,1.0,2
-2022,2,Saudi Arabian Grand Prix,SAI,Ferrari,88.402,0.6923076923076923,3
-2022,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,88.2,0.0,4
-2022,2,Saudi Arabian Grand Prix,RUS,Mercedes,89.104,0.46153846153846156,5
-2022,2,Saudi Arabian Grand Prix,OCO,Alpine,89.068,0.23076923076923078,6
-2022,2,Saudi Arabian Grand Prix,NOR,McLaren,89.651,0.0,7
-2022,2,Saudi Arabian Grand Prix,GAS,AlphaTauri,89.254,0.0,8
-2022,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.546,0.38461538461538464,9
-2022,2,Saudi Arabian Grand Prix,HAM,Mercedes,90.343,0.5769230769230769,10
-2022,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,89.819,0.038461538461538464,11
-2022,2,Saudi Arabian Grand Prix,HUL,Aston Martin,90.543,0.0,12
-2022,2,Saudi Arabian Grand Prix,STR,Aston Martin,90.256,0.0,13
-2022,2,Saudi Arabian Grand Prix,ALB,Williams,90.492,0.0,14
-2022,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,89.183,0.3076923076923077,15
-2022,2,Saudi Arabian Grand Prix,ALO,Alpine,89.147,0.07692307692307693,16
-2022,2,Saudi Arabian Grand Prix,RIC,McLaren,89.773,0.0,17
-2022,2,Saudi Arabian Grand Prix,LAT,Williams,91.817,0.0,18
-2022,2,Saudi Arabian Grand Prix,TSU,AlphaTauri,89.51577777777777,0.15384615384615385,19
-2021,21,Saudi Arabian Grand Prix,HAM,Mercedes,87.511,0.9912917271407837,1
-2021,21,Saudi Arabian Grand Prix,VER,Red Bull Racing,87.653,1.0,2
-2021,21,Saudi Arabian Grand Prix,BOT,Mercedes,87.622,0.5689404934687954,3
-2021,21,Saudi Arabian Grand Prix,OCO,Alpine,88.574,0.1741654571843251,4
-2021,21,Saudi Arabian Grand Prix,RIC,McLaren,88.216,0.3018867924528302,5
-2021,21,Saudi Arabian Grand Prix,GAS,AlphaTauri,88.125,0.26705370101596515,6
-2021,21,Saudi Arabian Grand Prix,LEC,Ferrari,88.054,0.4412191582002903,7
-2021,21,Saudi Arabian Grand Prix,SAI,Ferrari,88.237,0.41944847605224966,8
-2021,21,Saudi Arabian Grand Prix,GIO,Alfa Romeo Racing,88.616,0.002902757619738752,9
-2021,21,Saudi Arabian Grand Prix,NOR,McLaren,88.18,0.444121915820029,10
-2021,21,Saudi Arabian Grand Prix,STR,Aston Martin,89.368,0.09869375907111756,11
-2021,21,Saudi Arabian Grand Prix,LAT,Williams,89.177,0.020319303338171262,12
-2021,21,Saudi Arabian Grand Prix,ALO,Alpine,88.92,0.22351233671988388,13
-2021,21,Saudi Arabian Grand Prix,TSU,AlphaTauri,88.222,0.05805515239477504,14
-2021,21,Saudi Arabian Grand Prix,RAI,Alfa Romeo Racing,88.856,0.02902757619738752,15
-2021,21,Saudi Arabian Grand Prix,VET,Aston Martin,89.198,0.12481857764876633,16
-2021,21,Saudi Arabian Grand Prix,PER,Red Bull Racing,87.946,0.5515239477503628,17
-2021,21,Saudi Arabian Grand Prix,MAZ,Haas F1 Team,90.473,0.0,18
-2021,21,Saudi Arabian Grand Prix,RUS,Williams,88.926,0.04644412191582003,19
-2021,21,Saudi Arabian Grand Prix,MSC,Haas F1 Team,89.464,0.0,20
+Year,EventName,Driver,Team,QualifyingTime (s),PointsIndex,FinishingPosition
+2025,Australian Grand Prix,NOR,McLaren,75.096,0.0,1
+2025,Australian Grand Prix,VER,Red Bull Racing,75.481,0.0,2
+2025,Australian Grand Prix,RUS,Mercedes,75.546,0.0,3
+2025,Australian Grand Prix,ANT,Mercedes,76.525,0.0,4
+2025,Australian Grand Prix,ALB,Williams,75.737,0.0,5
+2025,Australian Grand Prix,STR,Aston Martin,76.369,0.0,6
+2025,Australian Grand Prix,HUL,Kick Sauber,76.579,0.0,7
+2025,Australian Grand Prix,LEC,Ferrari,75.755,0.0,8
+2025,Australian Grand Prix,PIA,McLaren,75.18,0.0,9
+2025,Australian Grand Prix,HAM,Ferrari,75.919,0.0,10
+2025,Australian Grand Prix,GAS,Alpine,75.98,0.0,11
+2025,Australian Grand Prix,TSU,Racing Bulls,75.67,0.0,12
+2025,Australian Grand Prix,OCO,Haas F1 Team,77.147,0.0,13
+2025,Australian Grand Prix,BEA,Haas F1 Team,76.06857894736842,0.0,14
+2025,Australian Grand Prix,LAW,Red Bull Racing,77.094,0.0,15
+2025,Australian Grand Prix,BOR,Kick Sauber,76.516,0.0,16
+2025,Australian Grand Prix,ALO,Aston Martin,76.288,0.0,17
+2025,Australian Grand Prix,SAI,Williams,75.931,0.0,18
+2025,Australian Grand Prix,DOO,Alpine,76.315,0.0,19
+2025,Australian Grand Prix,HAD,Racing Bulls,76.175,0.0,20
+2025,Chinese Grand Prix,PIA,McLaren,90.641,0.08,1
+2025,Chinese Grand Prix,NOR,McLaren,90.787,1.0,2
+2025,Chinese Grand Prix,RUS,Mercedes,90.723,0.6,3
+2025,Chinese Grand Prix,VER,Red Bull Racing,90.817,0.72,4
+2025,Chinese Grand Prix,OCO,Haas F1 Team,91.625,0.0,5
+2025,Chinese Grand Prix,ANT,Mercedes,91.103,0.48,6
+2025,Chinese Grand Prix,ALB,Williams,91.503,0.4,7
+2025,Chinese Grand Prix,BEA,Haas F1 Team,92.018,0.0,8
+2025,Chinese Grand Prix,STR,Aston Martin,91.773,0.32,9
+2025,Chinese Grand Prix,SAI,Williams,91.628,0.0,10
+2025,Chinese Grand Prix,HAD,Racing Bulls,91.079,0.0,11
+2025,Chinese Grand Prix,LAW,Red Bull Racing,92.174,0.0,12
+2025,Chinese Grand Prix,DOO,Alpine,92.092,0.0,13
+2025,Chinese Grand Prix,BOR,Kick Sauber,92.141,0.0,14
+2025,Chinese Grand Prix,HUL,Kick Sauber,91.632,0.24,15
+2025,Chinese Grand Prix,TSU,Racing Bulls,91.238,0.0,16
+2025,Chinese Grand Prix,ALO,Aston Martin,91.688,0.0,17
+2025,Chinese Grand Prix,LEC,Ferrari,91.021,0.16,18
+2025,Chinese Grand Prix,HAM,Ferrari,90.927,0.04,19
+2025,Chinese Grand Prix,GAS,Alpine,91.992,0.0,20
+2025,Japanese Grand Prix,VER,Red Bull Racing,86.983,0.6976744186046512,1
+2025,Japanese Grand Prix,NOR,McLaren,86.995,1.0,2
+2025,Japanese Grand Prix,PIA,McLaren,87.027,0.627906976744186,3
+2025,Japanese Grand Prix,LEC,Ferrari,87.299,0.09302325581395349,4
+2025,Japanese Grand Prix,RUS,Mercedes,87.318,0.6976744186046512,5
+2025,Japanese Grand Prix,ANT,Mercedes,87.555,0.46511627906976744,6
+2025,Japanese Grand Prix,HAM,Ferrari,87.61,0.023255813953488372,7
+2025,Japanese Grand Prix,HAD,Racing Bulls,87.569,0.0,8
+2025,Japanese Grand Prix,ALB,Williams,87.615,0.37209302325581395,9
+2025,Japanese Grand Prix,BEA,Haas F1 Team,87.711,0.09302325581395349,10
+2025,Japanese Grand Prix,ALO,Aston Martin,87.897,0.0,11
+2025,Japanese Grand Prix,TSU,Red Bull Racing,87.967,0.0,12
+2025,Japanese Grand Prix,GAS,Alpine,87.822,0.0,13
+2025,Japanese Grand Prix,SAI,Williams,87.836,0.023255813953488372,14
+2025,Japanese Grand Prix,DOO,Alpine,88.877,0.0,15
+2025,Japanese Grand Prix,HUL,Kick Sauber,88.57,0.13953488372093023,16
+2025,Japanese Grand Prix,LAW,Racing Bulls,87.906,0.0,17
+2025,Japanese Grand Prix,OCO,Haas F1 Team,88.696,0.23255813953488372,18
+2025,Japanese Grand Prix,BOR,Kick Sauber,88.622,0.0,19
+2025,Japanese Grand Prix,STR,Aston Martin,89.271,0.23255813953488372,20
+2025,Bahrain Grand Prix,PIA,McLaren,89.841,0.6885245901639344,1
+2025,Bahrain Grand Prix,RUS,Mercedes,90.009,0.6557377049180327,2
+2025,Bahrain Grand Prix,NOR,McLaren,90.267,1.0,3
+2025,Bahrain Grand Prix,LEC,Ferrari,90.175,0.26229508196721313,4
+2025,Bahrain Grand Prix,HAM,Ferrari,90.772,0.11475409836065574,5
+2025,Bahrain Grand Prix,VER,Red Bull Racing,90.423,0.9016393442622951,6
+2025,Bahrain Grand Prix,GAS,Alpine,90.216,0.0,7
+2025,Bahrain Grand Prix,OCO,Haas F1 Team,91.594,0.16393442622950818,8
+2025,Bahrain Grand Prix,TSU,Red Bull Racing,91.228,0.0,9
+2025,Bahrain Grand Prix,BEA,Haas F1 Team,92.373,0.08196721311475409,10
+2025,Bahrain Grand Prix,ANT,Mercedes,90.213,0.45901639344262296,11
+2025,Bahrain Grand Prix,ALB,Williams,92.04,0.29508196721311475,12
+2025,Bahrain Grand Prix,HAD,Racing Bulls,91.271,0.06557377049180328,13
+2025,Bahrain Grand Prix,DOO,Alpine,91.245,0.0,14
+2025,Bahrain Grand Prix,ALO,Aston Martin,91.634,0.0,15
+2025,Bahrain Grand Prix,LAW,Racing Bulls,92.165,0.0,16
+2025,Bahrain Grand Prix,STR,Aston Martin,92.283,0.16393442622950818,17
+2025,Bahrain Grand Prix,BOR,Kick Sauber,92.186,0.0,18
+2025,Bahrain Grand Prix,SAI,Williams,90.68,0.01639344262295082,19
+2025,Bahrain Grand Prix,HUL,Kick Sauber,92.067,0.09836065573770492,20
+2024,Saudi Arabian Grand Prix,VER,Red Bull Racing,87.472,1.0,1
+2024,Saudi Arabian Grand Prix,PER,Red Bull Racing,87.807,0.6923076923076923,2
+2024,Saudi Arabian Grand Prix,LEC,Ferrari,87.791,0.46153846153846156,3
+2024,Saudi Arabian Grand Prix,PIA,McLaren,88.089,0.15384615384615385,4
+2024,Saudi Arabian Grand Prix,ALO,Aston Martin,87.846,0.07692307692307693,5
+2024,Saudi Arabian Grand Prix,RUS,Mercedes,88.316,0.38461538461538464,6
+2024,Saudi Arabian Grand Prix,BEA,Ferrari,88.642,0.0,7
+2024,Saudi Arabian Grand Prix,NOR,McLaren,88.132,0.3076923076923077,8
+2024,Saudi Arabian Grand Prix,HAM,Mercedes,88.46,0.23076923076923078,9
+2024,Saudi Arabian Grand Prix,HUL,Haas F1 Team,89.055,0.0,10
+2024,Saudi Arabian Grand Prix,ALB,Williams,88.98,0.0,11
+2024,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.02,0.0,12
+2024,Saudi Arabian Grand Prix,OCO,Alpine,89.475,0.0,13
+2024,Saudi Arabian Grand Prix,SAR,Williams,89.526,0.0,14
+2024,Saudi Arabian Grand Prix,TSU,RB,88.547,0.0,15
+2024,Saudi Arabian Grand Prix,RIC,RB,89.025,0.0,16
+2024,Saudi Arabian Grand Prix,BOT,Kick Sauber,89.179,0.0,17
+2024,Saudi Arabian Grand Prix,ZHO,Kick Sauber,88.58373684210527,0.0,18
+2024,Saudi Arabian Grand Prix,STR,Aston Martin,88.25,0.038461538461538464,19
+2024,Saudi Arabian Grand Prix,GAS,Alpine,89.479,0.0,20
+2023,Saudi Arabian Grand Prix,PER,Red Bull Racing,88.265,0.72,1
+2023,Saudi Arabian Grand Prix,VER,Red Bull Racing,88.761,1.0,2
+2023,Saudi Arabian Grand Prix,ALO,Aston Martin,88.73,0.6,3
+2023,Saudi Arabian Grand Prix,RUS,Mercedes,88.857,0.24,4
+2023,Saudi Arabian Grand Prix,HAM,Mercedes,89.223,0.4,5
+2023,Saudi Arabian Grand Prix,SAI,Ferrari,88.931,0.48,6
+2023,Saudi Arabian Grand Prix,LEC,Ferrari,88.42,0.0,7
+2023,Saudi Arabian Grand Prix,OCO,Alpine,89.078,0.0,8
+2023,Saudi Arabian Grand Prix,GAS,Alpine,89.357,0.08,9
+2023,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.634,0.0,10
+2023,Saudi Arabian Grand Prix,TSU,AlphaTauri,89.939,0.0,11
+2023,Saudi Arabian Grand Prix,HUL,Haas F1 Team,89.451,0.0,12
+2023,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,89.461,0.0,13
+2023,Saudi Arabian Grand Prix,DEV,AlphaTauri,90.244,0.0,14
+2023,Saudi Arabian Grand Prix,PIA,McLaren,89.243,0.0,15
+2023,Saudi Arabian Grand Prix,SAR,Williams,128.51,0.0,16
+2023,Saudi Arabian Grand Prix,NOR,McLaren,90.447,0.0,17
+2023,Saudi Arabian Grand Prix,BOT,Alfa Romeo,89.668,0.16,18
+2023,Saudi Arabian Grand Prix,ALB,Williams,89.994,0.04,19
+2023,Saudi Arabian Grand Prix,STR,Aston Martin,88.945,0.32,20
+2022,Saudi Arabian Grand Prix,VER,Red Bull Racing,88.461,0.0,1
+2022,Saudi Arabian Grand Prix,LEC,Ferrari,88.225,1.0,2
+2022,Saudi Arabian Grand Prix,SAI,Ferrari,88.402,0.6923076923076923,3
+2022,Saudi Arabian Grand Prix,PER,Red Bull Racing,88.2,0.0,4
+2022,Saudi Arabian Grand Prix,RUS,Mercedes,89.104,0.46153846153846156,5
+2022,Saudi Arabian Grand Prix,OCO,Alpine,89.068,0.23076923076923078,6
+2022,Saudi Arabian Grand Prix,NOR,McLaren,89.651,0.0,7
+2022,Saudi Arabian Grand Prix,GAS,AlphaTauri,89.254,0.0,8
+2022,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.546,0.38461538461538464,9
+2022,Saudi Arabian Grand Prix,HAM,Mercedes,90.343,0.5769230769230769,10
+2022,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,89.819,0.038461538461538464,11
+2022,Saudi Arabian Grand Prix,HUL,Aston Martin,90.543,0.0,12
+2022,Saudi Arabian Grand Prix,STR,Aston Martin,90.256,0.0,13
+2022,Saudi Arabian Grand Prix,ALB,Williams,90.492,0.0,14
+2022,Saudi Arabian Grand Prix,BOT,Alfa Romeo,89.183,0.3076923076923077,15
+2022,Saudi Arabian Grand Prix,ALO,Alpine,89.147,0.07692307692307693,16
+2022,Saudi Arabian Grand Prix,RIC,McLaren,89.773,0.0,17
+2022,Saudi Arabian Grand Prix,LAT,Williams,91.817,0.0,18
+2022,Saudi Arabian Grand Prix,TSU,AlphaTauri,89.51577777777777,0.15384615384615385,19
+2021,Saudi Arabian Grand Prix,HAM,Mercedes,87.511,0.9912917271407837,1
+2021,Saudi Arabian Grand Prix,VER,Red Bull Racing,87.653,1.0,2
+2021,Saudi Arabian Grand Prix,BOT,Mercedes,87.622,0.5689404934687954,3
+2021,Saudi Arabian Grand Prix,OCO,Alpine,88.574,0.1741654571843251,4
+2021,Saudi Arabian Grand Prix,RIC,McLaren,88.216,0.3018867924528302,5
+2021,Saudi Arabian Grand Prix,GAS,AlphaTauri,88.125,0.26705370101596515,6
+2021,Saudi Arabian Grand Prix,LEC,Ferrari,88.054,0.4412191582002903,7
+2021,Saudi Arabian Grand Prix,SAI,Ferrari,88.237,0.41944847605224966,8
+2021,Saudi Arabian Grand Prix,GIO,Alfa Romeo Racing,88.616,0.002902757619738752,9
+2021,Saudi Arabian Grand Prix,NOR,McLaren,88.18,0.444121915820029,10
+2021,Saudi Arabian Grand Prix,STR,Aston Martin,89.368,0.09869375907111756,11
+2021,Saudi Arabian Grand Prix,LAT,Williams,89.177,0.020319303338171262,12
+2021,Saudi Arabian Grand Prix,ALO,Alpine,88.92,0.22351233671988388,13
+2021,Saudi Arabian Grand Prix,TSU,AlphaTauri,88.222,0.05805515239477504,14
+2021,Saudi Arabian Grand Prix,RAI,Alfa Romeo Racing,88.856,0.02902757619738752,15
+2021,Saudi Arabian Grand Prix,VET,Aston Martin,89.198,0.12481857764876633,16
+2021,Saudi Arabian Grand Prix,PER,Red Bull Racing,87.946,0.5515239477503628,17
+2021,Saudi Arabian Grand Prix,MAZ,Haas F1 Team,90.473,0.0,18
+2021,Saudi Arabian Grand Prix,RUS,Williams,88.926,0.04644412191582003,19
+2021,Saudi Arabian Grand Prix,MSC,Haas F1 Team,89.464,0.0,20
