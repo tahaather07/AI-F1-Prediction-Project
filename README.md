@@ -8,7 +8,7 @@ Predicting F1 race outcomes is challenging due to numerous influencing factors. 
 
 ## Goal
 
-To develop and compare machine learning models for predicting F1 race finishing orders, specifically focusing on a target race (e.g., 2025 Saudi Arabian GP).
+To develop and compare machine learning models for predicting F1 race finishing orders, specifically focusing on a target race
 
 ## Methodology
 
